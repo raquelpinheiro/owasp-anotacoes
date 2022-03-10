@@ -1,2 +1,4 @@
-# owasp-top10-anotacoes
-Anotações sobre OWASP Top 10
+# OWASP
+Anotações de alguns projetos da OWASP
+- Top 10
+- Cheat Sheet Series
